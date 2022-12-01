@@ -1,0 +1,117 @@
+/* body{
+    background: rgb(63,94,251);
+background: radial-gradient(circle, rgba(63,94,251,1) 0%, rgba(252,70,107,1) 100%);
+} */
+body{
+    background-color:#6060D8; 
+}
+
+h1{
+    font-family: 'Ubuntu';
+    color: white;
+    font-weight: 800;
+    font-size: 3rem;
+}
+
+h3{
+    font-family: 'Ubuntu';
+    color: black;
+    font-weight: 100;
+    font-size: 2rem;
+}
+
+p{
+    font-family: 'Ubuntu';
+    text-align:justify;
+    margin-right: 45%;
+    color: #CFD2CF;
+
+}
+
+.content-img{
+    padding-top: 2%;
+    margin-left: 0%;
+    padding-left: 15.5%;
+   
+    /* padding-left: 15%; */
+}
+.content-feature{
+    padding-top: 2%;
+    padding-left: 5%;
+}
+.content-feature2{
+
+
+}
+
+.content{
+ padding-left: 3.5%
+}
+
+.buttons{
+    padding-top: 5%;
+    padding-right: 1%;
+}
+
+.buttons-one{
+    margin-right:2.5%;
+}
+
+.navbar{
+    font-family: "Ubuntu";
+    padding-right: 7%;
+    padding-left: 7%;
+    padding-top: 2%;
+}
+.nav-item{
+    padding: 5%;
+}
+
+.search{
+    margin-left: 10%;
+   
+}
+
+
+.search2{
+    color:white;
+}
+
+/* .nav-li{
+    color:white;
+} */
+
+.nav-link{
+    color: white;
+}
+
+.social-media{
+    padding: 5%;
+    margin-left: 0%;
+  
+}
+
+.fa-2x{
+    padding: 1%;
+}
+
+.fa-2x:hover{
+    color:white;
+}
+
+.responsive {
+    width: auto;
+    height: 100%;
+  }
+
+/* #Header{5
+    background-color:firebrick ;
+} */
+/* 
+ body{
+    background-color:#6060D8 ;
+}  */
+
+/* .content{
+   background-color:#6060D8;
+} */
