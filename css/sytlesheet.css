@@ -22,16 +22,19 @@ h3{
 
 p{
     font-family: 'Ubuntu';
-    text-align:justify;
+    text-align:left;
     margin-right: 45%;
     color: #CFD2CF;
 
 }
 
-.content-img{
+.girl-img{
     padding-top: 2%;
     margin-left: 0%;
     padding-left: 15.5%;
+    width: 80%;
+    postion: absolute;
+    /* border-radius: 100%; */
    
     /* padding-left: 15%; */
 }
@@ -99,19 +102,18 @@ p{
     color:white;
 }
 
-.responsive {
-    width: auto;
-    height: 100%;
-  }
 
-/* #Header{5
-    background-color:firebrick ;
-} */
 /* 
- body{
-    background-color:#6060D8 ;
-}  */
-
-/* .content{
-   background-color:#6060D8;
+/* .girl-img{
+    /* border-radius: 40%; */
+    width:100%;
 } */
+    */
+
+@media (max-width:1028px){
+    .girl-img{
+        position: static;
+        margin-right: 2%;
+        padding-right: 100px
+    }
+}
